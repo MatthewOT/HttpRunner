@@ -1,0 +1,1211 @@
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: None[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.74 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 13.96 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141495.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: 302 redirect[0m
+[32m[47mINFO    [0m [32mGET https://httpbin.org/redirect-to[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2261.7 ms, response_length: 222941 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141495.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: 302 redirect[0m
+[32m[47mINFO    [0m [32mGET https://httpbin.org/redirect-to[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 6610.57 ms, response_length: 222941 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141498.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: get headers[0m
+[32m[47mINFO    [0m [32mGET http://httpbin.org/headers[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 523.19 ms, response_length: 157 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141505.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: 302 redirect[0m
+[32m[47mINFO    [0m [32mGET https://httpbin.org/redirect-to[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2822.04 ms, response_length: 222941 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to run testcase: get headers[0m
+[32m[47mINFO    [0m [32mGET http://httpbin.org/headers[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 1366.06 ms, response_length: 157 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141505.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: basic test with httpbin[0m
+[32m[47mINFO    [0m [32mGET https://httpbin.org:443/headers[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2114.69 ms, response_length: 157 bytes
+[0m
+[32m[47mINFO    [0m [32mGET https://httpbin.org:443/headers[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 292.97 ms, response_length: 157 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141509.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: test teardown hooks[0m
+[32m[47mINFO    [0m [32mGET https://httpbin.org:443/headers[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2113.36 ms, response_length: 185 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141512.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: test teardown hooks[0m
+[32m[47mINFO    [0m [32mGET https://httpbin.org:443/headers[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 1198.55 ms, response_length: 185 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141514.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: test teardown hooks[0m
+[32m[47mINFO    [0m [32mGET https://httpbin.org:443/headers[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 1193.21 ms, response_length: 185 bytes
+[0m
+[31m[47mERROR   [0m [31mFailed to extract attribute from response! => attribute_not_exist
+available response attributes: status_code, cookies, elapsed, headers, content, text, json, encoding, ok, reason, url.
+
+If you want to set attribute in teardown_hooks, take the following example as reference:
+response.new_attribute = 'new_attribute_value'
+[0m
+[31m[47mERROR   [0m [31m******************************** DETAILED REQUEST & RESPONSE ********************************
+====== request details ======
+url: https://httpbin.org:443/headers
+method: GET
+headers: {}
+data: 'abc'
+verify: True
+
+====== response details ======
+status_code: 500
+headers: {'Access-Control-Allow-Credentials': 'true', 'Access-Control-Allow-Origin': '*', 'Content-Encoding': 'gzip', 'Content-Type': 'html/text', 'Date': 'Wed, 03 Jul 2019 08:11:54 GMT', 'Referrer-Policy': 'no-referrer-when-downgrade', 'Server': 'nginx', 'X-Content-Type-Options': 'nosniff', 'X-Frame-Options': 'DENY', 'X-XSS-Protection': '1; mode=block', 'Content-Length': '152', 'Connection': 'keep-alive'}
+body: '{\n  "headers": {\n    "Accept": "*/*", \n    "Accept-Encoding": "gzip, deflate", \n    "Content-Length": "3", \n    "Host": "httpbin.org", \n    "User-Agent": "python-requests/2.22.0"\n  }\n}\n'
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141516.html[0m
+[32m[47mINFO    [0m [32mStart to run testcase: post data[0m
+[32m[47mINFO    [0m [32mPOST https://httpbin.org:443/post[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 1118.61 ms, response_length: 390 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141517.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: None[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.03 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141518.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: None[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.42 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/2000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.0 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/2000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/2000[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141518.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: user management testcase.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 13.78 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 4.02 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.99 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPUT http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 15.99 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.01 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 81 bytes
+[0m
+[32m[47mINFO    [0m [32mDELETE http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.99 ms, response_length: 42 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 81 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+token            : 74VqmGHtRM8FN3pG
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141518.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: user management testcase.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 13.64 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.02 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.03 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 13.99 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPUT http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 13.0 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2.99 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.02 ms, response_length: 81 bytes
+[0m
+[32m[47mINFO    [0m [32mDELETE http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 14.96 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 14.0 ms, response_length: 42 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2.9 ms, response_length: 81 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+token            : I57dOOvs5sZ36Y0z
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141519.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user testcases.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141519.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user testcases.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.97 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 13.0 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141519.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user 101 and check result for TESTSUITE_X1.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.02 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : miiMagE5Y8IMsLPI
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/101[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/101[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/101[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/101[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2.96 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user 101 and check result for TESTSUITE_X2.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.96 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : rJh2iCLENQVegFh8
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/101[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/101[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/101[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 2.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/101[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.02 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user 102 and check result for TESTSUITE_X1.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2.96 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : eYEFxno8lJcm5ZRO
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/102[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/102[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/102[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 14.96 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/102[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2.99 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user 102 and check result for TESTSUITE_X2.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.98 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : zNuG6sKzKh32BnE7
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/102[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/102[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/102[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 4.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/102[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.99 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user 103 and check result for TESTSUITE_X1.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.98 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : RJnp6417KpEL0iFp
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/103[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/103[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/103[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/103[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.98 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user 103 and check result for TESTSUITE_X2.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 5.98 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : iH7yWuvZ58KVslx6
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/103[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/103[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/103[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/103[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2.99 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : miiMagE5Y8IMsLPI
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : rJh2iCLENQVegFh8
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : eYEFxno8lJcm5ZRO
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : zNuG6sKzKh32BnE7
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : RJnp6417KpEL0iFp
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : iH7yWuvZ58KVslx6
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141519.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: user management testcase.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.02 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 6.98 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 14.96 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPUT http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 14.57 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 12.65 ms, response_length: 81 bytes
+[0m
+[32m[47mINFO    [0m [32mDELETE http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 13.13 ms, response_length: 42 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 81 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+token            : SFqNEhNXtFkswxfr
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141519.html[0m
+[32m[47mINFO    [0m [32mStart to run testcase: testcase description[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 14.96 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 14.44 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141519.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: test upload file with httpbin[0m
+[32m[47mINFO    [0m [32mPOST https://httpbin.org:443/post[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2040.54 ms, response_length: 552 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141520.html[0m
+[32m[47mINFO    [0m [32mStart to run testcase: post data[0m
+[32m[47mINFO    [0m [32mPOST https://httpbin.org:443/post[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 1050.77 ms, response_length: 390 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+status_code      : 200
+req_data         : abc
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141522.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user 101 and check result for TESTSUITE_X1.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 6.98 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 5.98 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : rYs96h6n410I9yJ2
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/101[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/101[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/101[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 5.98 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/101[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 13.24 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user 101 and check result for TESTSUITE_X2.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : ANj7OBK0gmJm0yZE
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/101[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/101[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/101[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/101[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user 102 and check result for TESTSUITE_X1.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 12.96 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : hZwqqLc1onhWEzdB
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/102[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/102[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/102[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/102[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user 102 and check result for TESTSUITE_X2.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.02 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2.99 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : lenzidrDp09viXh8
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/102[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/102[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/102[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.02 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/102[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 14.24 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user 103 and check result for TESTSUITE_X1.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : xriGfPQjKq4073r6
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/103[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/103[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/103[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 2.96 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/103[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2.96 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user 103 and check result for TESTSUITE_X2.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : aQGS0Av6MOwBmhn5
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/103[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/103[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/103[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/103[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 13.95 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : rYs96h6n410I9yJ2
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : ANj7OBK0gmJm0yZE
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : hZwqqLc1onhWEzdB
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : lenzidrDp09viXh8
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : xriGfPQjKq4073r6
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : aQGS0Av6MOwBmhn5
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141523.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: setup and reset all.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 14.68 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 12.0 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : jj36x0iKAOlw557q
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141523.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user 1000 and check result.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 14.96 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : YIZvM3z7ulGVGpAl
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32mStart to run testcase: create user 1001 and check result.[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 5.02 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/reset-all[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : VnzJGRCCTAigYwvG
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/1001[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/1001[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1001[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 14.96 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/1001[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 5.99 ms, response_length: 66 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : YIZvM3z7ulGVGpAl
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+session_token    : VnzJGRCCTAigYwvG
+------------------------------------------------
+[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141523.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: None[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 4.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141524.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mStart to run testcase: None[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 4.0 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mStart to render Html report ...[0m
+[32m[47mINFO    [0m [32mGenerated Html report: D:\tools\HttpRunner-master\reports\1562141524.html[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 1011.77 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 10.97 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 6.98 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 7.03 ms, response_length: 54 bytes
+[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 7.98 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 16.95 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 6.98 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 1210.6 ms, response_length: 222941 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 7.98 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 14.92 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 4.99 ms, response_length: 17 bytes
+[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.02 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.03 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 2.99 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2.99 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 13.96 ms, response_length: 17 bytes
+[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 14.06 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 1007.81 ms, response_length: 12 bytes
+[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2.99 ms, response_length: 12 bytes
+[0m
+[31m[47mERROR   [0m [31m
+validate: LazyString($resp_status_code) equals 201(int)	==> fail
+200(int) equals 201(int)[0m
+[31m[47mERROR   [0m [31m
+validate: LazyString($resp_status_code) equals 201(int)	==> fail
+200(int) equals 201(int)[0m
+[31m[47mERROR   [0m [31m******************************** DETAILED REQUEST & RESPONSE ********************************
+====== request details ======
+url: http://127.0.0.1:5000/
+method: GET
+headers: {}
+verify: True
+
+====== response details ======
+status_code: 200
+headers: {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '12', 'Server': 'Werkzeug/0.15.4 Python/3.7.3', 'Date': 'Wed, 03 Jul 2019 08:12:09 GMT'}
+body: 'Hello World!'
+[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\data\test.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[31m[47mERROR   [0m [31mJSONDecodeError: JSON file format error: tests/data/tmp.json[0m
+[31m[47mERROR   [0m [31mTestcase file content is empty: tests/data/tmp.json[0m
+[31m[47mERROR   [0m [31mJSONDecodeError: JSON file format error: tests/data/tmp.json[0m
+[31m[47mERROR   [0m [31mTestcase file content is empty: tests/data/tmp.yml[0m
+[31m[47mERROR   [0m [31mTestcase file content format invalid: tests/data/tmp.yml[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[31m[47mERROR   [0m [31mpath not exist: D:\tools\HttpRunner-master\tests/data_not_exist[0m
+[31m[47mERROR   [0m [31mpath not exist: tests/data_not_exist[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[31m[47mERROR   [0m [31mFailed to extract attribute from response body! => content.xxx
+response body: <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>httpbin.org</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Source+Code+Pro:300,600|Titillium+Web:400,600,700"
+        rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/flasgger_static/swagger-ui.css">
+    <link rel="icon" type="image/png" href="/static/favicon.ico" sizes="64x64 32x32 16x16" />
+    <style>
+        html {
+            box-sizing: border-box;
+            overflow: -moz-scrollbars-vertical;
+            overflow-y: scroll;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        body {
+            margin: 0;
+            background: #fafafa;
+        }
+    </style>
+</head>
+
+<body>
+    <a href="https://github.com/requests/httpbin" class="github-corner" aria-label="View source on Github">
+        <svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;"
+            aria-hidden="true">
+            <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
+            <path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2"
+                fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path>
+            <path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z"
+                fill="currentColor" class="octo-body"></path>
+        </svg>
+    </a>
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0">
+        <defs>
+            <symbol viewBox="0 0 20 20" id="unlocked">
+                <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path>
+            </symbol>
+
+            <symbol viewBox="0 0 20 20" id="locked">
+                <path d="M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"
+                />
+            </symbol>
+
+            <symbol viewBox="0 0 20 20" id="close">
+                <path d="M14.348 14.849c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229 0 1.698z"
+                />
+            </symbol>
+
+            <symbol viewBox="0 0 20 20" id="large-arrow">
+                <path d="M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"
+                />
+            </symbol>
+
+            <symbol viewBox="0 0 20 20" id="large-arrow-down">
+                <path d="M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"
+                />
+            </symbol>
+
+
+            <symbol viewBox="0 0 24 24" id="jump-to">
+                <path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z" />
+            </symbol>
+
+            <symbol viewBox="0 0 24 24" id="expand">
+                <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z" />
+            </symbol>
+
+        </defs>
+    </svg>
+
+
+    <div id="swagger-ui">
+        <div data-reactroot="" class="swagger-ui">
+            <div>
+                <div class="information-container wrapper">
+                    <section class="block col-12">
+                        <div class="info">
+                            <hgroup class="main">
+                                <h2 class="title">httpbin.org
+                                    <small>
+                                        <pre class="version">0.9.2</pre>
+                                    </small>
+                                </h2>
+                                <pre class="base-url">[ Base URL: httpbin.org/ ]</pre>
+                            </hgroup>
+                            <div class="description">
+                                <div class="markdown">
+                                    <p>A simple HTTP Request &amp; Response Service.
+                                        <br>
+                                        <br>
+                                        <b>Run locally: </b>
+                                        <code>$ docker run -p 80:80 kennethreitz/httpbin</code>
+                                    </p>
+                                </div>
+                            </div>
+                            <div>
+                                <div>
+                                    <a href="https://kennethreitz.org" target="_blank">the developer - Website</a>
+                                </div>
+                                <a href="mailto:me@kennethreitz.org">Send email to the developer</a>
+                            </div>
+                        </div>
+                        <!-- ADDS THE LOADER SPINNER -->
+                        <div class="loading-container">
+                            <div class="loading"></div>
+                        </div>
+
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class='swagger-ui'>
+        <div class="wrapper">
+            <section class="clear">
+                <span style="float: right;">
+                    [Powered by
+                    <a target="_blank" href="https://github.com/rochacbruno/flasgger">Flasgger</a>]
+                    <br>
+                </span>
+            </section>
+        </div>
+    </div>
+
+
+
+    <script src="/flasgger_static/swagger-ui-bundle.js"> </script>
+    <script src="/flasgger_static/swagger-ui-standalone-preset.js"> </script>
+    <script src='/flasgger_static/lib/jquery.min.js' type='text/javascript'></script>
+    <script>
+
+        window.onload = function () {
+            
+
+            fetch("/spec.json")
+                .then(function (response) {
+                    response.json()
+                        .then(function (json) {
+                            var current_protocol = window.location.protocol.slice(0, -1);
+                            if (json.schemes[0] != current_protocol) {
+                                // Switches scheme to the current in use
+                                var other_protocol = json.schemes[0];
+                                json.schemes[0] = current_protocol;
+                                json.schemes[1] = other_protocol;
+
+                            }
+                            json.host = window.location.host;  // sets the current host
+
+                            const ui = SwaggerUIBundle({
+                                spec: json,
+                                validatorUrl: null,
+                                dom_id: '#swagger-ui',
+                                deepLinking: true,
+                                jsonEditor: true,
+                                docExpansion: "none",
+                                apisSorter: "alpha",
+                                //operationsSorter: "alpha",
+                                presets: [
+                                    SwaggerUIBundle.presets.apis,
+                                    // yay ES6 modules ↘
+                                    Array.isArray(SwaggerUIStandalonePreset) ? SwaggerUIStandalonePreset : SwaggerUIStandalonePreset.default
+                                ],
+                                plugins: [
+                                    SwaggerUIBundle.plugins.DownloadUrl
+                                ],
+            
+            // layout: "StandaloneLayout"  // uncomment to enable the green top header
+        })
+
+        window.ui = ui
+
+        // uncomment to rename the top brand if layout is enabled
+        // $(".topbar-wrapper .link span").replaceWith("<span>httpbin</span>");
+        })
+    })
+}
+    </script>  <div class='swagger-ui'>
+    <div class="wrapper">
+        <section class="block col-12 block-desktop col-12-desktop">
+            <div>
+
+                <h2>Other Utilities</h2>
+
+                <ul>
+                    <li>
+                        <a href="/forms/post">HTML form</a> that posts to /post /forms/post</li>
+                </ul>
+
+                <br />
+                <br />
+            </div>
+        </section>
+    </div>
+</div>
+</body>
+
+</html>
+[0m
+[31m[47mERROR   [0m [31mFailed to extract cookie! => cookies.xx
+response cookies: {}
+[0m
+[31m[47mERROR   [0m [31melapsed is datetime.timedelta instance, attribute should also be specified!
+available attributes: days, seconds, microseconds, total_seconds[0m
+[31m[47mERROR   [0m [31myears is not valid datetime.timedelta attribute.
+available attributes: days, seconds, microseconds, total_seconds[0m
+[31m[47mERROR   [0m [31mFailed to extract! => data.def
+response body: {'args': {}, 'data': 'abc', 'files': {}, 'form': {}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Content-Length': '3', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.22.0'}, 'json': None, 'method': 'POST', 'origin': '1.119.154.179, 1.119.154.179', 'url': 'https://httpbin.org/anything'}
+[0m
+[31m[47mERROR   [0m [31mFailed to extract: encoding.xx
+[0m
+[31m[47mERROR   [0m [31mFailed to extract: ok.xx
+[0m
+[31m[47mERROR   [0m [31mFailed to extract: reason.xx
+[0m
+[31m[47mERROR   [0m [31mFailed to extract: url.xx
+[0m
+[31m[47mERROR   [0m [31mFailed to extract! => not_exist
+response body: {'args': {}, 'data': '{"success": false, "person": {"name": {"first_name": "Leo", "last_name": "Lee"}, "age": 29, "cities": ["Guangzhou", "Shenzhen"]}}', 'files': {}, 'form': {}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Content-Length': '129', 'Content-Type': 'application/json', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.22.0'}, 'json': {'person': {'age': 29, 'cities': ['Guangzhou', 'Shenzhen'], 'name': {'first_name': 'Leo', 'last_name': 'Lee'}}, 'success': False}, 'method': 'POST', 'origin': '1.119.154.179, 1.119.154.179', 'url': 'https://httpbin.org/anything'}
+[0m
+[31m[47mERROR   [0m [31mFailed to extract! => person.cities.3
+response body: {'args': {}, 'data': '{"success": false, "person": {"name": {"first_name": "Leo", "last_name": "Lee"}, "age": 29, "cities": ["Guangzhou", "Shenzhen"]}}', 'files': {}, 'form': {}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Content-Length': '129', 'Content-Type': 'application/json', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.22.0'}, 'json': {'person': {'age': 29, 'cities': ['Guangzhou', 'Shenzhen'], 'name': {'first_name': 'Leo', 'last_name': 'Lee'}}, 'success': False}, 'method': 'POST', 'origin': '1.119.154.179, 1.119.154.179', 'url': 'https://httpbin.org/anything'}
+[0m
+[31m[47mERROR   [0m [31mFailed to extract header! => headers.xxx
+response headers: {'Access-Control-Allow-Credentials': 'true', 'Access-Control-Allow-Origin': '*', 'Content-Type': 'text/html; charset=utf-8', 'Date': 'Wed, 03 Jul 2019 08:12:32 GMT', 'Referrer-Policy': 'no-referrer-when-downgrade', 'Server': 'nginx', 'X-Content-Type-Options': 'nosniff', 'X-Frame-Options': 'DENY', 'X-XSS-Protection': '1; mode=block', 'Content-Length': '0', 'Connection': 'keep-alive'}
+[0m
+[31m[47mERROR   [0m [31mFailed to extract attribute from response! => history
+available response attributes: status_code, cookies, elapsed, headers, content, text, json, encoding, ok, reason, url.
+
+If you want to set attribute in teardown_hooks, take the following example as reference:
+response.new_attribute = 'new_attribute_value'
+[0m
+[31m[47mERROR   [0m [31mFailed to extract: status_code.xx
+[0m
+[31m[47mERROR   [0m [31mFailed to extract attribute from response! => LB123.*RB789
+available response attributes: status_code, cookies, elapsed, headers, content, text, json, encoding, ok, reason, url.
+
+If you want to set attribute in teardown_hooks, take the following example as reference:
+response.new_attribute = 'new_attribute_value'
+[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mGET http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m401 Client Error: UNAUTHORIZED for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 12.13 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 4.02 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/1000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/1000[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 3.96 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/2000[0m
+[32m[47mINFO    [0m [32mstatus_code: 201, response_time(ms): 3.01 ms, response_length: 54 bytes
+[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/users/2000[0m
+[31m[47mERROR   [0m [31m500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/users/2000[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 12.96 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mPOST https://httpbin.org:443/anything[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 2065.47 ms, response_length: 414 bytes
+[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mPOST https://httpbin.org:443/anything[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 1142.35 ms, response_length: 595 bytes
+[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token2[0m
+[31m[47mERROR   [0m [31m404 Client Error: NOT FOUND for url: http://127.0.0.1:5000/api/get-token2[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 14.96 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32mLoading environment variables from D:\tools\HttpRunner-master\tests\.env[0m
+[32m[47mINFO    [0m [32mPOST http://127.0.0.1:5000/api/get-token[0m
+[32m[47mINFO    [0m [32mstatus_code: 200, response_time(ms): 12.93 ms, response_length: 46 bytes
+[0m
+[32m[47mINFO    [0m [32m
+==================== Output ====================
+Variable         : Value
+---------------- : -----------------------------
+a                : 1
+b                : {"b1": 123}
+c                : None
+d                : [4, 5]
+------------------------------------------------
+[0m
+[31m[47mERROR   [0m [31mFailed to extract! => ids.str_key
+response body: {'ids': [1, 2, 3, 4], 'person': {'name': {'first_name': 'Leo', 'last_name': 'Lee'}, 'age': 29, 'cities': ['Guangzhou', 'Shenzhen']}}
+[0m
+[31m[47mERROR   [0m [31mFailed to extract! => ids.5
+response body: {'ids': [1, 2, 3, 4], 'person': {'name': {'first_name': 'Leo', 'last_name': 'Lee'}, 'age': 29, 'cities': ['Guangzhou', 'Shenzhen']}}
+[0m
+[31m[47mERROR   [0m [31mFailed to extract! => person.not_exist_key
+response body: {'ids': [1, 2, 3, 4], 'person': {'name': {'first_name': 'Leo', 'last_name': 'Lee'}, 'age': 29, 'cities': ['Guangzhou', 'Shenzhen']}}
+[0m
